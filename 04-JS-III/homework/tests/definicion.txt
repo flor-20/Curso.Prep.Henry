@@ -1,0 +1,3 @@
+Arrays: Contenedores de almacenamiento para colecciones de datos, es decir, arreglo para la coleccion de datos a la 
+cual tendremos acceso, invocando el nombre del array e inmediatamente entre corchetes el indice del dato al cual queremos
+ acceder.

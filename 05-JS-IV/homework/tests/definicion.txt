@@ -1,0 +1,11 @@
+Objetos: contenedor de datos correspondientes a un solo tema en particular. Se instancia entre llaves ({}).
+
+Propiedades: las propiedades son informacion contenida dentro del objeto, se expresa como pares key : value.
+
+Métodos: las funciones como propiedades de un objeto se denominan metodos.
+
+Bucle `for…in`: loop o bucle que recorre todas las key : value de un objeto.
+
+Notación de puntos vs notación de corchetes: la notacion de corchetes nos permite hacer referencia al nombre de 
+la propiedad cuando la misma se encuentra escrita de manera no convencional, entre comillas o es una "multiplalabra"
+en ese caso la notacion de puntos nos daria un error.

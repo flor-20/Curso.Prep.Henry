@@ -1,0 +1,6 @@
+prototype: forma de acceso a metodos de objetos creados a partir de una clase, heredados de esa misma clase.
+la funcionalidad del prototype es basicamente no repetir dichos metodos en cada vez que se replique una clase.
+
+ _Constructors_ (de Clases): plantilla creadora de objetos, el cual posee propiedades y metodos propios de 
+ esa clase/ constructor. los objetos creados a partir de ésta compartiran dichas propiedades y métodos, a 
+ su vez pueden sumar nuevos.

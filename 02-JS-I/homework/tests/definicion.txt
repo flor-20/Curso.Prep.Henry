@@ -1,0 +1,13 @@
+variables: espacio guardado en memoria para asignarle un valor cualquiera que necesitemos conservar para usar 
+cuando lo necesitemos.
+
+Strings: cadena de caracteres que pueden formar palabras y / o concatenar numeros entre si y a su vez
+también a palabras.
+
+Declaraciones if: declaraciones condicionales cuyo resultado es un valor verdadero o falso, el resultado
+de dicha condicion nos permite, a su vez, realizar alguna acción (ejecución del codigo deseado) en base a dicho resultado.
+
+Funciones (argumentos, return):Las funciones son los principales "bloques de construcción" de un programa. Pueden ser 
+"llamadas" las veces que sean requeridas sin la necesidad de repetir el código.
+
+Valores booleanos (true, false): 

@@ -1,0 +1,13 @@
+for: bucle que itera sobre una proposicion, la cantidad de veces que nosotros le asignemos (a traves de un contador) y, 
+que dependiendo del valor de verdad de la misma, será llevado a cabo una acción a traves del código que nosotros hayamos
+introducido en el cuerpo del bucle.
+
+operadores lógicos:
+&& (AND): operador logico que compara dos expresiones y devuelve verdadero sólo si el valor de verdad de ambas expresiones
+es verdadero de lo contrario devolvera falso.
+
+|| (OR): operador logico que compara dos expresiones y devuelve verdadero si el valor de verdad de alguna o ambas
+ expresiones es verdadero de lo contrario devolvera falso.
+
+ ! (NOT): operador logico que cambia el valor de verdad de la proposicion, es decir para una proposicion con valor de 
+ verdad verdadero si anteponemos el simbolo de not (!), a la proposicion (entre parentesis), la misma sera falsa.
